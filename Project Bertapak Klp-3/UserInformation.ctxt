@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=userId
+comment0.target=void\ setUserId(java.lang.String)
+comment1.params=koordinat
+comment1.target=void\ setPosisi(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getID()
+comment3.params=
+comment3.target=java.lang.String\ getStep()
+comment4.params=waktuAwal\ waktuAkhir
+comment4.target=int\ getStep(java.lang.String,\ java.lang.String)
+comment5.params=waktuAwal\ waktuAkhir
+comment5.target=java.lang.String\ getRute(java.lang.String,\ java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ getRute()
+numComments=7
